@@ -1,6 +1,4 @@
-service = 0
-bill = 0
-tap = 0
+service = input("How's the service?")
 
 if service == 'great':
     print('25%')
