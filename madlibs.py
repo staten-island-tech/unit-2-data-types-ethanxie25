@@ -1,0 +1,5 @@
+verb1 = ('run')
+verb2 = ('walk')
+noun = ('brick')
+number = ('30')
+celebrityguest = ('')
