@@ -7,3 +7,7 @@ z = input('Later, he was rescued by __ and went on his yacht. Type in a celebrit
 print(f'Later, he was rescued by {z} and went on his yacht.')
 a = input('When he got back to land, he started to __ again. Type in the first verb.')
 print(f'When he got back to land, he started to {a} again.')
+b = input('While doing that, a falling __ fell from the sky. Type in a noun.')
+print(f'While doing that, a falling {b} fell from the sky.')
+c = input('Luckily, he did not get hit since he was on a __. Type in the first verb.')
+print(f'Luckily, he did not get hit since he was on a {c}.')
